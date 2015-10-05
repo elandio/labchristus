@@ -1,0 +1,3 @@
+A Gerência de Equipamentos de Informática da Faculdade Christus necessita de um sistema para controlar os equipamentos de hardware que são utilizados pelos funcionários, professores e alunos da faculdade. Com a implantação do sistema, espera-se substituir a planilha eletrônica que é atualmente utilizada para controlar os equipamentos.
+O sistema deverá controlar os seguintes tipos de hardware: Micros, monitores, estabilizadores, projetores multimídia, impressoras e pen drives.
+O sistema está sendo construído como atividade da Oficina de Desenvolvimento de Software, no período 2010.1
